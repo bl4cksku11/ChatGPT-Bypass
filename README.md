@@ -1,6 +1,6 @@
 # ChatGPT-Bypass
 
-***Author: Jose Rivas (Aka. BlackSkull)
+**Author: Jose Rivas (Aka. BlackSkull)**
 
 This code is a simple Python script that uses OpenAI's GPT-3 API to generate text based on a user-provided prompt. The script takes in a prompt as a command-line argument using the argparse module, and prompts the user to enter their OpenAI API key. It then sends a request to the OpenAI API using the provided prompt, API key, and other parameters such as the GPT-3 model, maximum number of tokens, and temperature. The response is then extracted from the JSON-formatted API response, and the generated text is printed to the console along with the original prompt that was used. The script can be used to quickly generate text for a wide variety of applications, such as scripts, exploits, content generation, and more, without any restriction by ChatGPT, like the usual message of "As an AI language model, I cannot create or share exploits or any malicious code. It is important to note that exploiting vulnerabilities without permission is illegal and can result in severe legal consequences...", from now forget that message, with this program you would be able to request anything.
 
