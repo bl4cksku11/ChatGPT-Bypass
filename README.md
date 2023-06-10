@@ -7,7 +7,7 @@ This code is a simple Python script that uses OpenAI's GPT-3 API to generate tex
 # Usage
 1. Clone the repository or download the code files to your local machine.
 ```bash
-git clone https://github.com/blackskull0101/ChatGPT-Bypass.git
+git clone https://github.com/bl4cksku11/ChatGPT-Bypass.git
 ```
 
 2. Open a terminal and navigate to the directory where the code files are located.
